@@ -1,0 +1,26 @@
+*~
+*.autosave
+*.a
+*.core
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*.so.*
+*.qm
+core
+!core/
+tags
+*.debug
+Makefile*
+
+# qtcreator generated files
+*.pro.user*
+
+# Vim temporary files
+.*.swp
+
+# MinGW generated files
+*.Debug
+*.Release
